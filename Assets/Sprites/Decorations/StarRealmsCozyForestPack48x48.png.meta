@@ -1,0 +1,1726 @@
+fileFormatVersion: 2
+guid: 2e4c3f57e2b37ab47a9704224e28501f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1449a6584398484c9d463cb4277d224
+      internalID: 885511151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1008
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ddae55e81a9344fb203c42e42ec482
+      internalID: -1483846932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1080
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f7eb72014c8c24dbd758cd64a8f61f
+      internalID: -960856502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9032c399f12675e40b937a0d78149186
+      internalID: -1459708499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a7a330fff826343934aea041f4afb5
+      internalID: 146013470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1066
+        width: 48
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85bf36802f6aaf4d8535b8538d7259a
+      internalID: 843944833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1066
+        width: 48
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc658200ea7a664fb4c90a81c48b835
+      internalID: -1003035133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1008
+        width: 96
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414ba3e55eb6f1c48a08eebd1e0e1d0b
+      internalID: -165077024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1008
+        width: 143
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3c50cf6d8774740a6acff0b118105a
+      internalID: -532034344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 936
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c69a959a75852d43a1f43c3aa770493
+      internalID: -1113742153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 936
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4464de00ff0f1bc488fc55ccc9fc2192
+      internalID: -1527698361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5480151d4b566034b9ca820b11ba1ec7
+      internalID: -1694476237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 864
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e341891a23f74d4bb5468fc0ae0d6f8
+      internalID: 537940741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 864
+        width: 96
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a11dc623e0fce4aaa67b56bd532dcc
+      internalID: 1754433972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 922
+        width: 48
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3f290ef9733c147bf4f8db8f969748
+      internalID: -1035959305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 922
+        width: 48
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a5c65ba6afcf84b9c93ffc02949aa6
+      internalID: -521190727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 792
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fceb6255465b3443adfebd2e7b5a7f1
+      internalID: 133648596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_17
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 792
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1697b33573889554ebfd3fceeba0bcb3
+      internalID: 2068092802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 720
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ba046835c7a2f45a3d14f8e940ad69
+      internalID: -995410193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_19
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 720
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a617d6e3f4b3b9e4fa94e23ded20a74d
+      internalID: -1837095184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 720
+        width: 96
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9022744c5329c4db7e144a672ada44
+      internalID: 1735205530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 787
+        width: 48
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70486a6f00559bb4ab369e362a9d1a14
+      internalID: 460537795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 787
+        width: 48
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32285c8ecc54b74fbeefd5d140d5aa3
+      internalID: -1745880977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 631
+        width: 72
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2a9a492c824494dbb4c26491a436dc
+      internalID: 891632783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_24
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 631
+        width: 72
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62263ac0352c3de4dad4d4c04b9dde4a
+      internalID: 657519760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 631
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9605c6e7635eb41a62206e5723a8e8
+      internalID: -1528483274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_26
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 548
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad239f482d1f0f4b93e0a495d881e12
+      internalID: -1302425495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_27
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 548
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c667235c382cf47b89f824ec53514b
+      internalID: -1728372116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 480
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ca7134eeebea3428ba0dcb76d8a07a
+      internalID: 648869510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_29
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 480
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a12b81bd5d23a4ca3f60ae5eb835c8
+      internalID: 820307027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 547
+        width: 48
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c60ed8016e900e418da3cd9537b2c6e
+      internalID: -1992984532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 547
+        width: 48
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b921cbbbd4ee34384ab0f8149d3922
+      internalID: -2064407951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_32
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 480
+        width: 96
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f3a3ee4a71704489356fc95266e9c0
+      internalID: -1511828747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_33
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 350
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9155cb07e37b0641b1c527a238c287d
+      internalID: 423468436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_34
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 350
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e2db89e12bab54899ef87991b76272
+      internalID: -216985375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_35
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 408
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f97485bbddce3e4d91a4f8eb9d045cc
+      internalID: 1716218583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_36
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 408
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae30e5fbfc0bae443ac5ca16a68a0e0e
+      internalID: 1740493320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_37
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af08de9f076a6524a8746b3f7ed973ed
+      internalID: 1004708855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_38
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72a0549ecb2bab4db9a5a8765577834
+      internalID: -303629461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cec1f9baa3e72429be455e228038ac
+      internalID: -1261555033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0ac6580b6c4d64f9c622acccc16220
+      internalID: -1519851815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_41
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 461
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c103ccd0e8ba124ba36643cfa72b71d
+      internalID: 1521105067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_42
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 446
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1070022f7ff7efe48a7d3dcb8310f05d
+      internalID: -1612405526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_43
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 400
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee06be2c46b4ce6439d4fd702321ff57
+      internalID: -1026089161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_44
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 388
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc673b99254d5645a4e85bf2c30ddd2
+      internalID: -2121134545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_45
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 481
+        width: 144
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7801eb323b1e5b4e8a97a0daffb3f48
+      internalID: -1603741748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_46
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 721
+        width: 144
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aefbaeec2c45244a89852b8f56a5916
+      internalID: 2004792641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_47
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1042
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba9a5b1244a92d4c9a4f01793ced354
+      internalID: -191360816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_48
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 481
+        width: 96
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48b48aa2b9f3524fbd34a41acd47c40
+      internalID: 1110208905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_49
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 721
+        width: 96
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3939ce9f0cf1a54faf903ef819d3ace
+      internalID: 100099184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_50
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 629
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74be4c7e11b231344909beb1875585b1
+      internalID: 297291366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_51
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 867
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbfb18b9c9e9a44c87c9d7817b4c1c5
+      internalID: -245283952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_52
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 881
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca21ded11bfcb43429310e15902954b5
+      internalID: 1172386806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_53
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 929
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d1b80d257f2214aa255ade020b4cbb
+      internalID: -1598163881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_54
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 925
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a41fbe2815926448003f327900e99f
+      internalID: 976145228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_55
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 926
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651e11478e3d0a64781cd21cd41e2470
+      internalID: -1640657496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_56
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 975
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae81cbe664285347b43b0c2deb5d9aa
+      internalID: 1886422953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_57
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 975
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ccc4f409227254f9d2b910272872c8
+      internalID: -129743477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_58
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 973
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef4ddc7a3eb4e04a8b69648402dfbc1
+      internalID: 810819752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_59
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 990
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f1a946733bf8248b00f5517cf6aebb
+      internalID: 1040220328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_60
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 928
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfd8d71b8e28624097a2f7470c4c673
+      internalID: -836286282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_61
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 879
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5026b7d5ab5aaf84f819c5aea0634e60
+      internalID: -869578886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_62
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 879
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565af3350751ace4588e885c9c6c32b4
+      internalID: 1891449201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_63
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 965
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70f13c37afc59243a8ebeb63efecdfc
+      internalID: 281629026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_64
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 917
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fe92613bff1264e85017116176e414
+      internalID: 1293595079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_65
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 872
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70026d8b4c961a4dbf3c2c413f84b07
+      internalID: -179130790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_66
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 964
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f68ebb6d8da574a9809db3c6e2fe72
+      internalID: -995709272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_67
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 914
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db95c8c5c63ef24aaf2809d1d169965
+      internalID: -1909340512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_68
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 961
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855871990b7b72743948b6e0b7f21605
+      internalID: 1534228100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_69
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 865
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c11f452a7bfc3479842b38b057b1f0
+      internalID: 820966662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_70
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 864
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6802d690135738c4982acfaa0679666b
+      internalID: 2113528274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarRealmsCozyForestPack48x48_71
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 915
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6444546b4b1cedb41bf8323299234892
+      internalID: -1804177794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      StarRealmsCozyForestPack48x48_0: 885511151
+      StarRealmsCozyForestPack48x48_1: -1483846932
+      StarRealmsCozyForestPack48x48_10: -1527698361
+      StarRealmsCozyForestPack48x48_11: -1694476237
+      StarRealmsCozyForestPack48x48_12: 537940741
+      StarRealmsCozyForestPack48x48_13: 1754433972
+      StarRealmsCozyForestPack48x48_14: -1035959305
+      StarRealmsCozyForestPack48x48_15: -521190727
+      StarRealmsCozyForestPack48x48_16: 133648596
+      StarRealmsCozyForestPack48x48_17: 2068092802
+      StarRealmsCozyForestPack48x48_18: -995410193
+      StarRealmsCozyForestPack48x48_19: -1837095184
+      StarRealmsCozyForestPack48x48_2: -960856502
+      StarRealmsCozyForestPack48x48_20: 1735205530
+      StarRealmsCozyForestPack48x48_21: 460537795
+      StarRealmsCozyForestPack48x48_22: -1745880977
+      StarRealmsCozyForestPack48x48_23: 891632783
+      StarRealmsCozyForestPack48x48_24: 657519760
+      StarRealmsCozyForestPack48x48_25: -1528483274
+      StarRealmsCozyForestPack48x48_26: -1302425495
+      StarRealmsCozyForestPack48x48_27: -1728372116
+      StarRealmsCozyForestPack48x48_28: 648869510
+      StarRealmsCozyForestPack48x48_29: 820307027
+      StarRealmsCozyForestPack48x48_3: -1459708499
+      StarRealmsCozyForestPack48x48_30: -1992984532
+      StarRealmsCozyForestPack48x48_31: -2064407951
+      StarRealmsCozyForestPack48x48_32: -1511828747
+      StarRealmsCozyForestPack48x48_33: 423468436
+      StarRealmsCozyForestPack48x48_34: -216985375
+      StarRealmsCozyForestPack48x48_35: 1716218583
+      StarRealmsCozyForestPack48x48_36: 1740493320
+      StarRealmsCozyForestPack48x48_37: 1004708855
+      StarRealmsCozyForestPack48x48_38: -303629461
+      StarRealmsCozyForestPack48x48_39: -1261555033
+      StarRealmsCozyForestPack48x48_4: 146013470
+      StarRealmsCozyForestPack48x48_40: -1519851815
+      StarRealmsCozyForestPack48x48_41: 1521105067
+      StarRealmsCozyForestPack48x48_42: 1974122379
+      StarRealmsCozyForestPack48x48_43: -1612405526
+      StarRealmsCozyForestPack48x48_44: -1026089161
+      StarRealmsCozyForestPack48x48_45: -2121134545
+      StarRealmsCozyForestPack48x48_46: -1603741748
+      StarRealmsCozyForestPack48x48_47: 2004792641
+      StarRealmsCozyForestPack48x48_48: -191360816
+      StarRealmsCozyForestPack48x48_49: 1110208905
+      StarRealmsCozyForestPack48x48_5: 843944833
+      StarRealmsCozyForestPack48x48_50: 100099184
+      StarRealmsCozyForestPack48x48_51: 297291366
+      StarRealmsCozyForestPack48x48_52: -245283952
+      StarRealmsCozyForestPack48x48_53: 1172386806
+      StarRealmsCozyForestPack48x48_54: -1598163881
+      StarRealmsCozyForestPack48x48_55: 976145228
+      StarRealmsCozyForestPack48x48_56: -1640657496
+      StarRealmsCozyForestPack48x48_57: -1793053298
+      StarRealmsCozyForestPack48x48_58: 172009102
+      StarRealmsCozyForestPack48x48_59: 1886422953
+      StarRealmsCozyForestPack48x48_6: -1003035133
+      StarRealmsCozyForestPack48x48_60: -129743477
+      StarRealmsCozyForestPack48x48_61: 810819752
+      StarRealmsCozyForestPack48x48_62: 1040220328
+      StarRealmsCozyForestPack48x48_63: -836286282
+      StarRealmsCozyForestPack48x48_64: -869578886
+      StarRealmsCozyForestPack48x48_65: 1891449201
+      StarRealmsCozyForestPack48x48_66: 281629026
+      StarRealmsCozyForestPack48x48_67: 1293595079
+      StarRealmsCozyForestPack48x48_68: -179130790
+      StarRealmsCozyForestPack48x48_69: -995709272
+      StarRealmsCozyForestPack48x48_7: -165077024
+      StarRealmsCozyForestPack48x48_70: -1909340512
+      StarRealmsCozyForestPack48x48_71: 1534228100
+      StarRealmsCozyForestPack48x48_72: 820966662
+      StarRealmsCozyForestPack48x48_73: 2113528274
+      StarRealmsCozyForestPack48x48_8: -532034344
+      StarRealmsCozyForestPack48x48_9: -1113742153
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
